@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+    <jugador id="1">
+        <nombre>Lionel Messi</nombre>
+        <equipo>Inter Miami</equipo>
+        <año>1987</año>
+        <posición>Delantero</posición>
+    </jugador>
+    <jugador id="2">
+        <nombre>Cristiano Ronaldo</nombre>
+        <equipo>Al-Nassr</equipo>
+        <año>1985</año>
+        <posición>Delantero</posición>
+    </jugador>
+    <jugador id="3">
+        <nombre>Luka Modric</nombre>
+        <equipo>Real Madrid</equipo>
+        <año>1985</año>
+        <posición>Mediocampista</posición>
+    </jugador>
+    <jugador id="4">
+        <nombre>Kevin De Bruyne</nombre>
+        <equipo>Manchester City</equipo>
+        <año>1991</año>
+        <posición>Mediocampista</posición>
+    </jugador>
+    <jugador id="5">
+        <nombre>Virgil van Dijk</nombre>
+        <equipo>Liverpool</equipo>
+        <año>1991</año>
+        <posición>Defensor</posición>
+    </jugador>
+</jugadores>
